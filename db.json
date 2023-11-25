@@ -1,0 +1,23 @@
+{
+    "usuarios":[
+        {
+            "id":"1",
+            "email":"sadas",
+            "password":"asdasd",
+            "imgProfile":"https://www.eleconomista.com.mx/__export/1660704035524/sites/eleconomista/img/2022/08/16/compras_linea_michis_superan_lomitos.png_1902800913.png",
+            "user":"Ferney",
+            "job":"Funcionario",
+            "area":"Agropecuaria"
+        }
+    ],
+    "publicaciones":[
+        {
+            "id":"asdasd",
+            "idUser":"1",
+            "title":"Primera",
+            "content":"hola",
+            "img":"https://www.eleconomista.com.mx/__export/1660704035524/sites/eleconomista/img/2022/08/16/compras_linea_michis_superan_lomitos.png_1902800913.png",
+            "date":"2023-28-5"
+        }
+    ]
+}
