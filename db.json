@@ -14,7 +14,7 @@
       "email": "adrian@gmail.com",
       "password": "123456",
       "imgProfile": "https://www.eleconomista.com.mx/__export/1660704035524/sites/eleconomista/img/2022/08/16/compras_linea_michis_superan_lomitos.png_1902800913.png",
-      "user": "Ferney",
+      "user": "Adrian",
       "job": "Funcionario",
       "area": "Deporte"
     }
@@ -27,7 +27,7 @@
       "content": "Lorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 añosLorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 añosLorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 años",
       "img": "https://pbs.twimg.com/media/E4K0n9LWYA0qKxz.jpg",
       "date": "2023-28-5",
-      "user": "1"
+      "user": "Ferney"
     },
     {
       "id": "dgfds",
@@ -36,7 +36,7 @@
       "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años",
       "img": "https://pbs.twimg.com/profile_images/1286123279992987656/iajkpLlN_400x400.jpg",
       "date": "2023-28-5",
-      "user": "2"
+      "user": "Adrian"
     },
     {
       "id": "asdaf",
@@ -45,7 +45,7 @@
       "content": "Descripcion",
       "img": "https://i.pinimg.com/236x/1c/2a/4c/1c2a4c880c3dacaa08ccfc313c29f94b.jpg",
       "date": "2023-28-5",
-      "user": "1"
+      "user": "Ferney"
     },
     {
       "id": "fdgd",
@@ -54,7 +54,7 @@
       "content": "hola",
       "img": "https://escafandrauabc.files.wordpress.com/2021/03/img_0415-2.jpg?w=1022",
       "date": "2023-28-5",
-      "user": "2"
+      "user": "Adrian"
     }
   ]
 }
