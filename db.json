@@ -23,9 +23,18 @@
     {
       "id": "asdasd",
       "idUser": "1",
-      "title": "Primera",
-      "content": "Lorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 añosLorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 añosLorem Ipsum es de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de resobrevivió 500 años",
-      "img": "https://pbs.twimg.com/media/E4K0n9LWYA0qKxz.jpg",
+      "title": "Feria universitaria",
+      "content": "Te invitamos a la gran feria universitaria el dia 29 de septiembre",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizD5ML4LdRrT_pCp5ZceS5ZRkDe3myF5aa-cM6BMWygCxmJhiP-2Y4rVlCEnKAVagqf7vuGdeBGKi6X5os_NDkhlavOMKOrOCwpXlFLKo8gYKmyKQ4G4povLr8ejPDgo4X21QRN9nbjcq14Kol9ddjdY5GLNqPT2DIp9TfrkqKOfaCXNsiH7HrPUYr0wI/w640-h466/Feria%20universitaria%20Mosquera.png",
+      "date": "2023-28-5",
+      "user": "Ferney"
+    },
+    {
+      "id": "dasdas",
+      "idUser": "1",
+      "title": "IntegracionCierreFormacion",
+      "content": "Por medio de la presente lo invitamos al evento de integración de cierre de formación el cual se llevara a cabo en el polideportivo del CBA el próximo 6 de diciembre desde las 9:00 am, habrá: Estaciones de juego interactivas,Música en vivo, Show de danza moderna,Concursos Dj con show",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizD5ML4LdRrT_pCp5ZceS5ZRkDe3myF5aa-cM6BMWygCxmJhiP-2Y4rVlCEnKAVagqf7vuGdeBGKi6X5os_NDkhlavOMKOrOCwpXlFLKo8gYKmyKQ4G4povLr8ejPDgo4X21QRN9nbjcq14Kol9ddjdY5GLNqPT2DIp9TfrkqKOfaCXNsiH7HrPUYr0wI/w640-h466/Feria%20universitaria%20Mosquera.png",
       "date": "2023-28-5",
       "user": "Ferney"
     }
