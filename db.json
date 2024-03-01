@@ -2,21 +2,21 @@
   "usuarios": [
     {
       "id": "1",
-      "email": "ferney@gmail.com",
+      "email": "bienestarsena@gmail.com",
       "password": "123456",
       "imgProfile": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png",
-      "user": "Ferney",
+      "user": "Juan",
       "job": "Funcionario",
-      "area": "Agropecuaria"
+      "area": "Bienestar"
     },
     {
       "id": "2",
-      "email": "adrian@gmail.com",
+      "email": "administracion@gmail.com",
       "password": "123456",
       "imgProfile": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/2090px-Sena_Colombia_logo.svg.png",
-      "user": "Adrian",
+      "user": "Pablo",
       "job": "Funcionario",
-      "area": "Deporte"
+      "area": "Administracion"
     }
   ],
   "publicaciones": [
@@ -27,6 +27,24 @@
       "content": "Te invitamos a la gran feria universitaria el dia 29 de septiembre",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizD5ML4LdRrT_pCp5ZceS5ZRkDe3myF5aa-cM6BMWygCxmJhiP-2Y4rVlCEnKAVagqf7vuGdeBGKi6X5os_NDkhlavOMKOrOCwpXlFLKo8gYKmyKQ4G4povLr8ejPDgo4X21QRN9nbjcq14Kol9ddjdY5GLNqPT2DIp9TfrkqKOfaCXNsiH7HrPUYr0wI/w640-h466/Feria%20universitaria%20Mosquera.png",
       "date": "2023-28-5",
+      "user": "Ferney"
+    },
+    {
+      "id": "asdasdas",
+      "idUser": "1",
+      "title": "Posibles Elegidos",
+      "content": "Convocatoria de apoyos de sostenimiento",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPjynGwyjUzP9f5_s7iCVpmNG49u63dVtIeYO_M2icwkbYB33wOct9C-SPXmZ5aGBQCbemC39jhD2cMSdCp9tnd-21XrEp_pD6cb3R8Euy56s54haYYFwt7Iz2JH-RlZcZxnNXSkclsltV78pFBssvLXPiHoFOEY-iisfa3Wi4gh4LM-anq_SjvVu5o3I/w640-h640/Mesa%20de%20trabajo%2012@4x.png",
+      "date": "2024-03-1",
+      "user": "Ferney"
+    },
+    {
+      "id": "asdasddf",
+      "idUser": "2",
+      "title": "Día Mundial de las Enfermedades Raras",
+      "content": "29 de febrero, Día Mundial de las Enfermedades Raras",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijJLhGNMsX8IsYfxIsNi49Ax54BF6iUdBjnZmwcWqS_gSlN49ptcYG607TbwuIatBih7PeYab6JXsViFGVlSTU0Eru2rEB5XatfCp4uQ8LQJuO91qVfK18MnrvUnQ2y2zTmATmB_Tfpn5xcZqziv-_gxoC-24GhEIHc5P_t-rSkyLydMrArNC8E04h1qc/w640-h420/Feb_26%20Ecard%20Enfermedades%20raras.jpg",
+      "date": "2024-02-29",
       "user": "Ferney"
     },
     {
